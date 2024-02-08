@@ -1,5 +1,5 @@
 {
-  "name": "primus-responder",
+  "name": "@cocalc/primus-responder",
   "version": "1.0.5",
   "description": "Request-Response ortiented communication for websockets with Primus.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/swissmanu/primus-responder"
+    "url": "https://github.com/sagemathinc/primus-responder"
   },
   "keywords": [
     "websocket",
